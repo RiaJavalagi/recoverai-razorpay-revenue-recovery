@@ -10,7 +10,7 @@
 
 ---
 
-## ??? System Architecture
+##  System Architecture
 
 ```mermaid
 graph TD
@@ -33,7 +33,7 @@ graph TD
 
 ---
 
-## ?? Key Features
+##  Key Features
 
 1. **Revenue-At-Risk & Customer Context Engine**: Real-time evaluation of immediate revenue risk, customer lifetime value (LTV), past payment success ratios, and subscription age.
 2. **Deterministic Failure Classification**: Maps gateway error codes into structured categories:
@@ -60,7 +60,7 @@ graph TD
 
 ---
 
-## ?? ML Benchmark & Simulation Results
+##  ML Benchmark & Simulation Results
 
 ### Model Comparison on 50,000 Records
 | Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC | Revenue-Weighted Recovery |
@@ -78,7 +78,7 @@ graph TD
 
 ---
 
-## ?? Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Installation
 ```bash
@@ -168,4 +168,5 @@ RecoverAI/
     +-- test_policy.py         # Policy & guardrail unit tests
     +-- test_recovery.py       # End-to-end recovery agent tests
     +-- test_webhook.py        # Webhook signature & parsing tests
-```
+```
+
