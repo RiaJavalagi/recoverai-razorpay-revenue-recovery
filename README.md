@@ -117,7 +117,7 @@ Dashboard available at: `http://localhost:8501`
 
 ---
 
-## ?? Running Tests
+##  Running Tests
 
 Run the complete automated test suite:
 ```bash
@@ -126,7 +126,7 @@ pytest tests/ -v
 
 ---
 
-## ?? Repository Structure
+##  Repository Structure
 
 ```
 RecoverAI/
